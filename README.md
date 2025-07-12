@@ -94,10 +94,10 @@ This project demonstrates the value of integrating diverse datasets to better un
 
 ## Online Access & Resources
 
-- **GitHub Repository:** [barisalan00.github.io](https://github.com/barisalan00/barisalan00.github.io)
+- **GitHub Repository:** [github.com/barisalan00](https://github.com/barisalan00/migration-flows-europe)
 - **Data Sources**: See `/data/` subfolder for full documentation and links to all raw sources.
 
-*For any questions, feedback, or collaboration inquiries, please contact [Barış Alan](mailto:your-email@domain.com).*
+*For any questions, feedback, or collaboration inquiries, please contact [Barış Alan](mailto:balan@tulane.edu).*
 
 ---
 
